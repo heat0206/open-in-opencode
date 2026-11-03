@@ -4,7 +4,7 @@
   "description": "Install the Open in OpenCode Windows context-menu extension from npm.",
   "type": "module",
   "bin": {
-    "open-in-opencode": "./bin/open-in-opencode.mjs"
+    "open-in-opencode": "bin/open-in-opencode.mjs"
   },
   "files": [
     "bin",
